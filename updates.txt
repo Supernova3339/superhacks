@@ -1,0 +1,17 @@
+;aiu;
+
+[Update]
+Name = SuperHacks
+ProductVersion = 1.0.0.5
+URL = http://dl.dropboxusercontent.com/s/mmeskyooyl477qu/SuperHacksSetup.exe?dl=0
+Size = 88064
+SHA256 = 81D740AEC978A363CCF4F6A6BCCE709464C24EDE35D196BE02C5E2DAA3F1640A
+MD5 = 050284bae9ac4d2704ac0263c14217fc
+ServerFileName = SuperHacks.exe
+FilePath = [APPDIR]SuperHacks.exe
+Version = 1.0.0.5
+UpdatedApplications = SuperHacks[1.0-1.0.0.5]
+Enhancement = Better UI
+Enhancement1 = Loading Screen
+BugFix = Fixed Dragging Issue
+AutoCloseApplication = [APPDIR]SuperHack.exe|;SuperHack
